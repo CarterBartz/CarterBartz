@@ -28,14 +28,6 @@ I'm a software developer and QA engineer with a passion for clean UI/UX, front-e
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=CarterBartz&theme=default)
-![Carter's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarterBartz&show_icons=true&hide_title=true&cache_seconds=1800&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarterBartz&layout=compact&theme=default)
-
----
-
 ## 🚀 Featured Projects
 
 Here are some of my favorite and most representative projects:
@@ -50,4 +42,12 @@ You can explore many more on my profile and pinned repos!
 
 ---
 
-_Thanks for visiting! Feel free to connect or contribute!_ 💬
+## 📈 GitHub Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=CarterBartz&theme=default)
+![Carter's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarterBartz&show_icons=true&hide_title=true&cache_seconds=1800&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarterBartz&layout=compact&theme=default)
+
+---
+
+Thanks for visiting! Feel free to connect! 💬
