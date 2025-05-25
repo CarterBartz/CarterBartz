@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm Carter Bartz
+# 👋 Hi, I'm Carter
 
 I'm a software developer and QA engineer with a passion for clean UI/UX, front-end frameworks, and building intuitive experiences.
 
