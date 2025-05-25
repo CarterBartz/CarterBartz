@@ -2,7 +2,7 @@
 
 🎓 B.S. in Computer Science, University of Minnesota - Duluth '23  
 💼 QA Engineer @ Park Place Technologies  
-🎨 Passionate about UI/UX design & front-end development  
+🎨 Passionate about UI/UX design & front-end development
 🌐 [carterbartz.com](https://carterbartz.com)
 
 ---
