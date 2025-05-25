@@ -23,8 +23,8 @@ I'm a software developer and QA engineer with a passion for clean UI/UX, front-e
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carter-bartz-231756210/)  
-[![Portfolio](https://img.shields.io/badge/Website-black?style=for-the-badge&logo=githubpages&logoColor=white)](https://carterbartz.com)  
-[![Codecademy](https://img.shields.io/badge/Codecademy-Certifications-blueviolet?style=for-the-badge&logo=codecademy&logoColor=white)](https://www.codecademy.com/profiles/carterBartz)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logoColor=white)](https://carterbartz.com)  
+[![Codecademy](https://img.shields.io/badge/Codecademy-Certifications-grey?style=for-the-badge&logo=codecademy&logoColor=white)](https://www.codecademy.com/profiles/carterBartz)
 
 ---
 
